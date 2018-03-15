@@ -1,0 +1,8 @@
+com/document/tracker/resources/CustomerResource.class
+com/document/tracker/representations/Document.class
+com/document/tracker/dao/mappers/CustomerMapper.class
+com/document/tracker/App.class
+com/document/tracker/TrackerConfiguration.class
+com/document/tracker/representations/Document$RequestType.class
+com/document/tracker/dao/CustomerDao.class
+com/document/tracker/representations/Customer.class

@@ -1,0 +1,13 @@
+server:
+  type: simple
+  applicationContextPath: /
+  connector:
+    type: http
+    port: 9999
+database:
+  driverClass: com.mysql.jdbc.Driver
+  user: wolfpack
+  password: 9803843za
+  url: jdbc:mysql://0.0.0.0/tracker
+swagger:
+  resourcePackage: com.document.tracker.resources
